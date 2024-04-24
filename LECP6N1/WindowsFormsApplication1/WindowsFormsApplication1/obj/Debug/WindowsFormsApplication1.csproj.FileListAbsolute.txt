@@ -1,0 +1,74 @@
+C:\Users\user\Desktop\SMC\程式\練習\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Desktop\SMC\程式\練習\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SMC\程式\練習\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\SMC\程式\練習\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\SMC\程式\練習\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\SMC\程式\練習\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\SMC\程式\練習\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\SMC\程式\練習\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\SMC\程式\練習\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.error.resources
+C:\Users\AnNei\Documents\Visual Studio 2015\Projects\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\AnNei\Documents\Visual Studio 2015\Projects\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\AnNei\Documents\Visual Studio 2015\Projects\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\AnNei\Documents\Visual Studio 2015\Projects\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\AnNei\Documents\Visual Studio 2015\Projects\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\AnNei\Documents\Visual Studio 2015\Projects\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\AnNei\Documents\Visual Studio 2015\Projects\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.error.resources
+C:\Users\AnNei\Documents\Visual Studio 2015\Projects\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\AnNei\Documents\Visual Studio 2015\Projects\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\AnNei\Documents\Visual Studio 2015\Projects\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataGridViewNumericUpDownElements.dll
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataGridViewNumericUpDownElements.pdb
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PhotoForm.resources
+C:\Users\AnNei\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\AnNei\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\AnNei\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\AnNei\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\AnNei\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\AnNei\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataGridViewNumericUpDownElements.dll
+C:\Users\AnNei\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataGridViewNumericUpDownElements.pdb
+C:\Users\AnNei\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\AnNei\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.error.resources
+C:\Users\AnNei\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\AnNei\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PhotoForm.resources
+C:\Users\AnNei\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\AnNei\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataGridViewNumericUpDownElements.dll
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataGridViewNumericUpDownElements.pdb
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.error.resources
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PhotoForm.resources
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Desktop\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataGridViewNumericUpDownElements.dll
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataGridViewNumericUpDownElements.pdb
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.error.resources
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PhotoForm.resources
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

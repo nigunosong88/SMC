@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.dll
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.pdb
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\DataGridViewNumericUpDownElements\bin\Debug\DataGridViewNumericUpDownElements.dll
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\DataGridViewNumericUpDownElements\bin\Debug\DataGridViewNumericUpDownElements.pdb
+C:\Users\user\Desktop\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.csprojResolveAssemblyReference.cache
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\DataGridViewNumericUpDownElements\bin\Debug\DataGridViewNumericUpDownElements.dll
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\DataGridViewNumericUpDownElements\bin\Debug\DataGridViewNumericUpDownElements.pdb
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.csprojResolveAssemblyReference.cache
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.dll
+C:\Users\nelso\Desktop\實驗室\code\c#\WindowsFormsApplication1\WindowsFormsApplication1\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.pdb
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\DataGridViewNumericUpDownElements\bin\Debug\DataGridViewNumericUpDownElements.dll
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\DataGridViewNumericUpDownElements\bin\Debug\DataGridViewNumericUpDownElements.pdb
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.dll
+C:\Users\user\Desktop\資料夾\實驗室\SMC\程式\馬達控制\LECP6N1\WindowsFormsApplication1\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.pdb
